@@ -2,5 +2,5 @@
 	"ip":"cafesaturn.mc-server.me",
 	"port":"32173",
 	"name":"afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
