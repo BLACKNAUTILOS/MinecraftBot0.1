@@ -28,7 +28,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("/vanish on");
+	bot.chat("hello");
 });
 
 bot.on('spawn',function() {
